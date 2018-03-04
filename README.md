@@ -2,4 +2,4 @@
 
 ## HTML & Semantics
 
-- [Heroes & Villains Markup](https://github.com/EvaMariaGarcia/IXD304-Master-Apprentice.index.html) 
+- [Heroes & Villains Markup](https://github.com/EvaMariaGarcia/IXD304-Master-Apprentice/index.html) 
