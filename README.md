@@ -18,5 +18,9 @@
 
 ### Excercise 2B
 
-- [Typography - Sherlock Holmes Quote](https://evamariagarcia.github.io/IXD304-Master-Apprentice/sherlocktypography.html)
+- [Style Tile](https://niice.co/m/a0e5b1662cc296f832c294b7f07ff1aa)
+
+### Excercise 3B (https://evamariagarcia.github.io/IXD304-Master-Apprentice/sherlocktypography.html)
+
+- [Typography - Sherlock Holmes Quote](https://github.com/EvaMariaGarcia/IXD304-Master-Apprentice/blob/gh-pages/images/styletile.png)
 
