@@ -16,29 +16,29 @@ font-family: 'Kirang Haerang', cursive;
 
 h1 {font-size: 5em;
  color: white;;
-    left:4.6em;}
+    left:5em;}
 h2 {font-size: 5em;
 color: black;
-left: 9.2em;}
+left: 10em;}
 
 h3 { font: 8em;
 color: black;
-left: 42em;}
+left: 45em;}
 
 .great{position: absolute; 
-margin-top: 5.5em;}
+margin-top: 6em;}
 
 .nothing {position: absolute; 
-margin-top: 7em;}
+margin-top: 7.4em;}
 
 .mind {position: absolute; 
-margin-top: 5.5em;}
+margin-top: 6em;}
 
 .little {position: absolute; 
-margin-top: 7em;}
+margin-top: 7.4em;}
 
 .sherlock {position: absolute; 
-margin-top: 35em;}
+margin-top: 37em;}
 
 /* --Section-- */
 
@@ -46,7 +46,7 @@ margin-top: 35em;}
  background-repeat: no-repeat;
     background-position: right;
     background-color: black;
-    padding-bottom: 45em;
+    padding-bottom: 50em;
 padding-top: 2em;}
 
 /*--Images--*/
