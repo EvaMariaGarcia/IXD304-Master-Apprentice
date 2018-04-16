@@ -1,0 +1,66 @@
+/* -- CSS RESET -- */
+*{ padding: 0;
+  margin; 0;
+  font-size; 100%;
+  line-height: 1em;
+}
+body {
+width: 100%;
+max-width: 100%;
+    max-height: 100%;
+font-family: 'Kirang Haerang', cursive;
+  margin: auto;
+  color: black;}
+
+/*--Headings--*/
+
+h1 {font-size: 5em;
+ color: white;;
+    left:4.6em;}
+h2 {font-size: 5em;
+color: black;
+left: 9.2em;}
+
+h3 { font: 8em;
+color: black;
+left: 42em;}
+
+.great{position: absolute; 
+margin-top: 5.5em;}
+
+.nothing {position: absolute; 
+margin-top: 7em;}
+
+.mind {position: absolute; 
+margin-top: 5.5em;}
+
+.little {position: absolute; 
+margin-top: 7em;}
+
+.sherlock {position: absolute; 
+margin-top: 35em;}
+
+/* --Section-- */
+
+.quote {background-image: url(sherlocktypography.png);
+ background-repeat: no-repeat;
+    background-position: right;
+    background-color: black;
+    padding-bottom: 45em;
+padding-top: 2em;}
+
+/*--Images--*/
+img { display: block;
+margin: auto;
+    max-width: 100%;
+    height: auto;
+align-content: center;}
+
+
+/*--Footer--*/ 
+footer {width: 100%; 
+background-color: #496f74;
+    text-align: center;
+padding-top: 1em;
+    padding-bottom: 1em;}
+

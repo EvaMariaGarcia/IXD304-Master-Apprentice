@@ -17,3 +17,6 @@
 - [Heroes & Villains Niice Moodboard](https://niice.co/m/a0e5b1662cc296f832c294b7f07ff1aa) 
 
 ### Excercise 2B
+
+- [Typography](https://evamariagarcia.github.io/IXD304-Master-Apprentice/sherlocktypography.html)
+
