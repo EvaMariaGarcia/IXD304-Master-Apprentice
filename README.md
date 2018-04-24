@@ -22,5 +22,5 @@
 
 ### Excercise 3B 
 
-- [Typography - Sherlock Holmes Quote](https://github.com/EvaMariaGarcia/IXD304-Master-Apprentice/blob/gh-pages/images/styletile.png)
+- [Typography - Sherlock Holmes Quote](https://evamariagarcia.github.io/IXD304-Master-Apprentice/sherlocktypography.html)
 
